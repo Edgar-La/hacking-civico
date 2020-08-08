@@ -1,5 +1,5 @@
 # [Chesapeake Bay Program](https://www.chesapeakeconservancy.org/conservation-innovation-center/precision-conservation/chesapeake-bay-program/)
-! [Chesapeake Bay Program logo](https://www.chesapeakeconservancy.org/wp-content/uploads/2019/07/CBP_logo_black.png)
+![Chesapeake Bay Program logo](https://www.chesapeakeconservancy.org/wp-content/uploads/2019/07/CBP_logo_black.png)
 
 * __¿Cuál fue el proyecto?__
 
